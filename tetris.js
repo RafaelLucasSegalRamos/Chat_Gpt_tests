@@ -32,7 +32,7 @@ const pieces = [
       [1, 1],
       [1, 1],
     ],
-    color: "yellow",
+    color: "#222",
   },
   {
     // S
