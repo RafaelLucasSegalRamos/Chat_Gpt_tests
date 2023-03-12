@@ -2,7 +2,9 @@ frase = 'racecar'
 frasei = list()
 frases = list()
 
-# for pos,i in enumerate(frase):
+
+# s == s[::-1] ou pode ser assim tbm
+
 
 for c in range(len(frase)-1, -1, -1):
     frasei.append(frase[c])
